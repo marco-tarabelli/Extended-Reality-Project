@@ -1,0 +1,16 @@
+[
+    {
+        "resultName": "Ossidiana",
+        "components": [
+            { "name": "Acqua", "min": 60, "max": 100 },
+            { "name": "Lava", "min": 0, "max": 30 }
+        ]
+    },
+    {
+        "resultName": "Acido Solforico Diluito",
+        "components": [
+            { "name": "Acido Solforico", "min": 20, "max": 50 },
+            { "name": "Acqua", "min": 50, "max": 80 }
+        ]
+    }
+]
